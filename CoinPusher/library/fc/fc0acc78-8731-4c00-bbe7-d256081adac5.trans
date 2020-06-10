@@ -1,0 +1,5 @@
+{
+    "resolveMap": {
+        "./GameLogic": "GameLogic.ts"
+    }
+}
