@@ -2,6 +2,7 @@
 
 Video Url：https://www.bilibili.com/video/BV1Lf4y1U7JU
 
-<iframe height="400" width="600" src="https://www.bilibili.com/video/BV1Lf4y1U7JU" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
+
+[![Watch the video](https://i1.hdslb.com/bfs/archive/ca9eae87d528b25e5730e56c5ff4375de48cd959.jpg@640w_400h_100Q_1c.webp)](https://www.bilibili.com/video/BV1Lf4y1U7JU)
 
