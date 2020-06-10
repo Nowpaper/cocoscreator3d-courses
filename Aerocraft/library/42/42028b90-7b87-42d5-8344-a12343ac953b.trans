@@ -1,6 +1,0 @@
-{
-    "resolveMap": {
-        "./FlyObjectSc": "FlyObjectSc.ts",
-        "./GameSpeedRateSc": "GameSpeedRateSc.ts"
-    }
-}
