@@ -1,0 +1,5 @@
+{
+    "resolveMap": {
+        "./GameSpeedRateSc": "GameSpeedRateSc.ts"
+    }
+}

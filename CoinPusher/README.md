@@ -1,4 +1,4 @@
-# CococsCreator Ver: 1.1.0
+# CococsCreator3D Ver: 1.1.0
 
 Video Url：https://www.bilibili.com/video/BV1Lf4y1U7JU
 

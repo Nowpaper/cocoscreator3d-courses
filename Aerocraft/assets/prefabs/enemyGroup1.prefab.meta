@@ -1,0 +1,13 @@
+{
+  "ver": "1.0.28",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "653e488f-895c-48bb-b0ad-b697f42d3cb8",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "asyncLoadAssets": true
+  }
+}
